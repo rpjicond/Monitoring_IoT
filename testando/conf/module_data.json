@@ -1,0 +1,25 @@
+{
+    "0": {
+        "id": 9,
+        "name": "M_A",
+        "description": "esp8266",
+        "type": "temperature",
+        "created_at": "2024-04-24 15:09:11",
+        "valeur": {
+            "temperature": 0.3
+        },
+        "operational_status": "non_op\u00e9rationnel"
+    },
+    "1": {
+        "id": 10,
+        "name": "M_B",
+        "description": "salut",
+        "type": "temperature",
+        "created_at": "2024-04-25 10:45:38",
+        "valeur": {
+            "temperature": 4.1
+        },
+        "operational_status": "non_op\u00e9rationnel"
+    },
+    "timestamp": 1714045200
+}

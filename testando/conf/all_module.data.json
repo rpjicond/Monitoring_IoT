@@ -1,0 +1,117 @@
+[
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 3,
+        "value": "{\"pressure\":996}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 1,
+        "value": "{\"humidity\":25}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 2,
+        "value": "{\"humidity\":91}",
+        "timestamp": "2024-04-22 16:07:50"
+    },
+    {
+        "module_id": 3,
+        "value": "{\"pressure\":996}",
+        "timestamp": "2024-04-22 16:07:50"
+    }
+]

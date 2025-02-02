@@ -1,0 +1,18 @@
+[
+    {
+        "id": 29,
+        "module_id": 9,
+        "value": "{\"temperature\":0.3}",
+        "timestamp": "2024-04-25 13:40:00",
+        "operational_status": "non_op\u00e9rationnel",
+        "data_sent": 40
+    },
+    {
+        "id": 30,
+        "module_id": 10,
+        "value": "{\"temperature\":4.1}",
+        "timestamp": "2024-04-25 13:40:00",
+        "operational_status": "non_op\u00e9rationnel",
+        "data_sent": 27
+    }
+]

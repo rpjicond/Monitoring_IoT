@@ -1,0 +1,42 @@
+[
+    {
+        "id": 38,
+        "module_id": 18,
+        "value": "{\"humidity\":56}",
+        "timestamp": "2024-04-25 21:11:21",
+        "operational_status": "non_op\u00e9rationnel",
+        "data_sent": 49
+    },
+    {
+        "id": 39,
+        "module_id": 19,
+        "value": "{\"pressure\":53}",
+        "timestamp": "2024-04-25 21:11:21",
+        "operational_status": "non_op\u00e9rationnel",
+        "data_sent": 35
+    },
+    {
+        "id": 40,
+        "module_id": 20,
+        "value": "{\"temperature\":3.899999999999999911182158029987476766109466552734375}",
+        "timestamp": "2024-04-25 21:11:21",
+        "operational_status": "operational",
+        "data_sent": 31
+    },
+    {
+        "id": 41,
+        "module_id": 21,
+        "value": "{\"pressure\":62}",
+        "timestamp": "2024-04-25 21:11:21",
+        "operational_status": "non_op\u00e9rationnel",
+        "data_sent": 27
+    },
+    {
+        "id": 42,
+        "module_id": 22,
+        "value": "{\"pressure\":67}",
+        "timestamp": "2024-04-25 21:11:21",
+        "operational_status": "non_op\u00e9rationnel",
+        "data_sent": 27
+    }
+]
